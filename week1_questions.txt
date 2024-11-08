@@ -1,6 +1,8 @@
 Question 1: Explain the difference between analog and digital signals.
+Analog signals are continous and they are made up of a range of values, while, digital signals are discrete and they are made up of binary digits such as 1s and 0s.
 
 Question 2: Give an example of something that uses digital signals and how it uses it.
+A simple example is an LED, it considers 1 as on and 0 as off. So if we were to send it a digital signal of 101010, the light would blink.
 
 Question 3: Give an example of something that uses analog signals and how it uses it.
-
+A microphone records audio in the form of analog signals. It detects the changes in the vibration in air and uses that as an analog signal.
